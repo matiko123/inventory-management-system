@@ -1,0 +1,106 @@
+.chocolate{
+    background-color: #753602!important;
+    color: white;
+}
+
+.brown{
+background-color: #E1C3AB!important;
+color: black!important;
+}
+
+td{
+    border: 10px solid white;
+    color: black!important;
+}
+.number{
+    font-size: 40px;
+    font-weight: 600;
+}
+.label{
+    margin-top: -1cm;
+    margin-bottom: -0.5cm;
+    font-size: 18px!important;
+    font-weight: 400;
+}
+
+.button{
+ border-radius: 20px!important;
+ font-size: 22px!important;
+ font-weight: 600;
+ background-color: #a14900!important;
+}
+.width{
+    max-width: cm;
+    cursor: pointer;
+}
+
+.myinput{
+    color: chocolate;height: 1.3cm;
+}
+
+.doubleinput{
+    margin-top: -0.3cm;
+}
+
+.inputradius{
+    border-radius: 16px!important;
+    height: 1cm;
+}
+
+.myborder{
+    border:  2px solid rgba(0, 0, 0, 0.404);
+    background-color: rgb(161, 69, 2);
+    max-width: 5.9cm!important;
+    max-height: 1.3cm;
+}
+
+.myactive{
+    background-color: white;
+}
+
+.myactivelink{
+    color:#000000!important;
+}
+
+.fa-bars{
+    color: white;
+}
+.logout{
+   background-color: white;
+   color: #863e04;
+   width: 2cm;
+   margin-left: 1.8cm;
+   border-radius: 6px;
+   height: 0.9cm;
+   font-weight: 500;
+   margin-top: 2cm!important;
+}
+
+.border{
+border-radius: 25px;
+width: 6cm;
+}
+
+
+.mynav{
+    width: 5cm;
+}
+
+.orders{
+    width: 6cm;
+    height: 6cm;
+}
+
+.active{
+    color: #863e04!important;
+}
+.mymodal{
+    position: absolute;margin-left: 97%;
+    margin-top: -17cm;color: white!important;
+    background-color: white;
+    cursor: pointer;
+}
+.modalcontainer{
+    background-color: #E1C3AB;
+    width: 10cm;
+}
